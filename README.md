@@ -2,7 +2,7 @@
 
 🚀 Full Stack Developer | Backend Develper | Cloud Enthusiast | AI Integrator  
 📍 Based in Coimbatore, India  
-🔗 [LinkedIn](https://www.linkedin.com/in/thivagar-r-in) • [Portfolio](https://funny-mandazi-03d668.netlify.app/) (Add if available)
+🔗 [LinkedIn](https://www.linkedin.com/in/thivagar-r-in) • [Portfolio](https://funny-mandazi-03d668.netlify.app/) 
 
 ---
 
@@ -10,11 +10,17 @@
 
 I’m a Full Stack Developer with **1.5+ years** of hands-on experience in building scalable web apps and AI-powered tools using the **MERN Stack**, **Firebase**, **AWS**, and **GCP**. I specialize in:
 
-- 🔐 Secure Auth systems using Firebase
-- 💻 Backend APIs with Node.js & Express
-- ☁️ Cloud deployments (EC2 → GCP Cloud Run)
-- 🤖 LLM integrations (ChatGPT, Gemini, Groq)
-- 📄 Form workflows, Email notifications & Razorpay
+🧠 **What I Work With**
+
+- **Frontend:** HTML, CSS, JavaScript, React.js  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MongoDB, MySQL  
+- **Cloud & DevOps:** AWS (EC2), GCP (Cloud Run), Docker  
+- **BaaS:** Firebase, Supabase  
+- **AI APIs:** OpenAI (ChatGPT), Groq, Gemini  
+- **Tools:** Git, GitHub, Postman, Nodemailer, Razorpay API  
+
+---
 
 Currently working at **Trafy AI**, where I lead development of our core academy platform and AI marketing tools.
 
