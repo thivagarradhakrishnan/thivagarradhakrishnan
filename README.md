@@ -76,7 +76,7 @@ Currently working at **Trafy AI**, where I lead development of our core academy 
 ### 📋 Task Manager App *(Productivity Tool)*
 - Built using MERN stack with real-time task creation and updates
 - Includes user registration, dashboard, priority filters, and due dates
-- Hosted using Firebase + GCP (Live link coming soon)
+- Hosted using Vercel and Render.
 
 ### ⚡ Vibecoding Apps (Built using Bolt.new + Supabase)
 - Developed multiple frontend-focused applications like:
