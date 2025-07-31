@@ -118,8 +118,7 @@ Currently working at **Trafy AI**, where I lead development of our core academy 
 ## 📫 Let's Connect
 
 📧 **thivagarradhakrishnan@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/thivagar-r-in)  
-💻 [GitHub](https://github.com/thivagarradhakrishnan)
+🔗 [LinkedIn](https://www.linkedin.com/in/thivagar-r-in) 
 
 ---
 
